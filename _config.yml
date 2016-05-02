@@ -1,0 +1,28 @@
+name: bluecoralservices
+favicon: null
+layout_spectrum: 0.8195513833779842
+typography_spectrum: 0.7396529035177082
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.9217336548026651
+  lightness: 0.8585709407925606
+  saturation: 0.20368132158182561
+  rhythmicContrast: 0.48413565405644476
+purpose: []
